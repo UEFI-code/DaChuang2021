@@ -1,0 +1,1085 @@
+INFO:root:Creating model...
+INFO:root:Setting up data...
+INFO:root:loading annotations into memory...
+INFO:root:Found 1500 annotation files.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Battery is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Carded blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Battery is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+INFO:root:Load 1500 xml files and 4378 boxes
+INFO:root:Done (t=0.18s)
+INFO:root:loading annotations into memory...
+INFO:root:Found 1500 annotation files.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Battery is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Carded blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Battery is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Pizza box is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Six pack rings is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Paper straw is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Other plastic cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Broken glass is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aerosol is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam cup is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic glooves is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Aluminium blister pack is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Scrap metal is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Shoe is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Toilet tube is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic utensils is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Foam food container is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Plastic lid is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Crisp packet is not in class_names! Pass this box annotation.
+WARNING:root:WARNING! Glass jar is not in class_names! Pass this box annotation.
+INFO:root:Load 1500 xml files and 4378 boxes
+INFO:root:Done (t=0.18s)
+INFO:root:Training batch size: 160
+INFO:root:Starting training...
+INFO:root:Start warming up...
+INFO:root:warmup|Iter(1/900)| lr:1.41e-02| loss_qfl:0.3051| loss_bbox:1.4177| loss_dfl:0.5181| 
+INFO:root:warmup|Iter(10/900)| lr:1.54e-02| loss_qfl:0.3404| loss_bbox:1.3642| loss_dfl:0.4814| 
+INFO:root:warmup|Iter(19/900)| lr:1.67e-02| loss_qfl:0.4315| loss_bbox:1.2025| loss_dfl:0.3907| 
+INFO:root:warmup|Iter(28/900)| lr:1.79e-02| loss_qfl:0.4809| loss_bbox:1.0358| loss_dfl:0.3479| 
+INFO:root:warmup|Iter(37/900)| lr:1.92e-02| loss_qfl:0.4798| loss_bbox:0.9410| loss_dfl:0.3297| 
+INFO:root:warmup|Iter(46/900)| lr:2.04e-02| loss_qfl:0.5022| loss_bbox:0.8705| loss_dfl:0.3117| 
+INFO:root:warmup|Iter(55/900)| lr:2.17e-02| loss_qfl:0.5233| loss_bbox:0.8207| loss_dfl:0.2963| 
+INFO:root:warmup|Iter(64/900)| lr:2.30e-02| loss_qfl:0.5411| loss_bbox:0.7931| loss_dfl:0.2901| 
+INFO:root:warmup|Iter(73/900)| lr:2.42e-02| loss_qfl:0.5430| loss_bbox:0.7690| loss_dfl:0.2810| 
+INFO:root:warmup|Iter(82/900)| lr:2.55e-02| loss_qfl:0.5486| loss_bbox:0.7465| loss_dfl:0.2781| 
+INFO:root:warmup|Iter(91/900)| lr:2.67e-02| loss_qfl:0.5555| loss_bbox:0.7289| loss_dfl:0.2721| 
+INFO:root:warmup|Iter(100/900)| lr:2.80e-02| loss_qfl:0.5569| loss_bbox:0.7254| loss_dfl:0.2738| 
+INFO:root:warmup|Iter(109/900)| lr:2.93e-02| loss_qfl:0.5696| loss_bbox:0.6959| loss_dfl:0.2668| 
+INFO:root:warmup|Iter(118/900)| lr:3.05e-02| loss_qfl:0.5771| loss_bbox:0.6830| loss_dfl:0.2629| 
+INFO:root:warmup|Iter(127/900)| lr:3.18e-02| loss_qfl:0.5836| loss_bbox:0.6706| loss_dfl:0.2593| 
+INFO:root:warmup|Iter(136/900)| lr:3.30e-02| loss_qfl:0.5802| loss_bbox:0.6552| loss_dfl:0.2558| 
+INFO:root:warmup|Iter(145/900)| lr:3.43e-02| loss_qfl:0.5736| loss_bbox:0.6486| loss_dfl:0.2520| 
+INFO:root:warmup|Iter(154/900)| lr:3.56e-02| loss_qfl:0.5794| loss_bbox:0.6400| loss_dfl:0.2521| 
+INFO:root:warmup|Iter(163/900)| lr:3.68e-02| loss_qfl:0.5641| loss_bbox:0.6296| loss_dfl:0.2489| 
+INFO:root:warmup|Iter(172/900)| lr:3.81e-02| loss_qfl:0.5668| loss_bbox:0.6232| loss_dfl:0.2462| 
+INFO:root:warmup|Iter(181/900)| lr:3.93e-02| loss_qfl:0.5628| loss_bbox:0.6235| loss_dfl:0.2454| 
+INFO:root:warmup|Iter(190/900)| lr:4.06e-02| loss_qfl:0.5660| loss_bbox:0.6092| loss_dfl:0.2426| 
+INFO:root:warmup|Iter(199/900)| lr:4.19e-02| loss_qfl:0.5628| loss_bbox:0.6069| loss_dfl:0.2422| 
+INFO:root:warmup|Iter(208/900)| lr:4.31e-02| loss_qfl:0.5656| loss_bbox:0.5977| loss_dfl:0.2403| 
+INFO:root:warmup|Iter(217/900)| lr:4.44e-02| loss_qfl:0.5605| loss_bbox:0.5961| loss_dfl:0.2387| 
+INFO:root:warmup|Iter(226/900)| lr:4.56e-02| loss_qfl:0.5525| loss_bbox:0.5927| loss_dfl:0.2392| 
+INFO:root:warmup|Iter(235/900)| lr:4.69e-02| loss_qfl:0.5550| loss_bbox:0.5700| loss_dfl:0.2318| 
+INFO:root:warmup|Iter(244/900)| lr:4.82e-02| loss_qfl:0.5534| loss_bbox:0.5714| loss_dfl:0.2337| 
+INFO:root:warmup|Iter(253/900)| lr:4.94e-02| loss_qfl:0.5462| loss_bbox:0.5582| loss_dfl:0.2316| 
+INFO:root:warmup|Iter(262/900)| lr:5.07e-02| loss_qfl:0.5352| loss_bbox:0.5634| loss_dfl:0.2349| 
+INFO:root:warmup|Iter(271/900)| lr:5.19e-02| loss_qfl:0.5417| loss_bbox:0.5623| loss_dfl:0.2317| 
+INFO:root:warmup|Iter(280/900)| lr:5.32e-02| loss_qfl:0.5285| loss_bbox:0.5478| loss_dfl:0.2258| 
+INFO:root:warmup|Iter(289/900)| lr:5.45e-02| loss_qfl:0.5382| loss_bbox:0.5453| loss_dfl:0.2258| 
+INFO:root:warmup|Iter(298/900)| lr:5.57e-02| loss_qfl:0.5338| loss_bbox:0.5502| loss_dfl:0.2285| 
+INFO:root:warmup|Iter(307/900)| lr:5.70e-02| loss_qfl:0.5221| loss_bbox:0.5409| loss_dfl:0.2268| 
+INFO:root:warmup|Iter(316/900)| lr:5.82e-02| loss_qfl:0.5100| loss_bbox:0.5464| loss_dfl:0.2272| 
+INFO:root:warmup|Iter(325/900)| lr:5.95e-02| loss_qfl:0.5323| loss_bbox:0.5381| loss_dfl:0.2247| 
+INFO:root:warmup|Iter(334/900)| lr:6.08e-02| loss_qfl:0.5367| loss_bbox:0.5426| loss_dfl:0.2257| 
+INFO:root:warmup|Iter(343/900)| lr:6.20e-02| loss_qfl:0.5201| loss_bbox:0.5372| loss_dfl:0.2254| 
+INFO:root:warmup|Iter(352/900)| lr:6.33e-02| loss_qfl:0.4899| loss_bbox:0.5456| loss_dfl:0.2259| 
+INFO:root:warmup|Iter(361/900)| lr:6.45e-02| loss_qfl:0.4882| loss_bbox:0.5355| loss_dfl:0.2207| 
+INFO:root:warmup|Iter(370/900)| lr:6.58e-02| loss_qfl:0.4993| loss_bbox:0.5110| loss_dfl:0.2170| 
+INFO:root:warmup|Iter(379/900)| lr:6.71e-02| loss_qfl:0.4928| loss_bbox:0.5093| loss_dfl:0.2167| 
+INFO:root:warmup|Iter(388/900)| lr:6.83e-02| loss_qfl:0.4801| loss_bbox:0.5183| loss_dfl:0.2196| 
+INFO:root:warmup|Iter(397/900)| lr:6.96e-02| loss_qfl:0.5013| loss_bbox:0.5132| loss_dfl:0.2180| 
+INFO:root:warmup|Iter(406/900)| lr:7.08e-02| loss_qfl:0.4859| loss_bbox:0.5063| loss_dfl:0.2174| 
+INFO:root:warmup|Iter(415/900)| lr:7.21e-02| loss_qfl:0.4915| loss_bbox:0.5062| loss_dfl:0.2172| 
+INFO:root:warmup|Iter(424/900)| lr:7.34e-02| loss_qfl:0.4842| loss_bbox:0.4956| loss_dfl:0.2139| 
+INFO:root:warmup|Iter(433/900)| lr:7.46e-02| loss_qfl:0.4648| loss_bbox:0.4977| loss_dfl:0.2155| 
+INFO:root:warmup|Iter(442/900)| lr:7.59e-02| loss_qfl:0.4619| loss_bbox:0.5009| loss_dfl:0.2149| 
+INFO:root:warmup|Iter(451/900)| lr:7.71e-02| loss_qfl:0.4514| loss_bbox:0.4879| loss_dfl:0.2113| 
+INFO:root:warmup|Iter(460/900)| lr:7.84e-02| loss_qfl:0.4568| loss_bbox:0.4813| loss_dfl:0.2109| 
+INFO:root:warmup|Iter(469/900)| lr:7.97e-02| loss_qfl:0.4620| loss_bbox:0.4799| loss_dfl:0.2108| 
+INFO:root:warmup|Iter(478/900)| lr:8.09e-02| loss_qfl:0.4627| loss_bbox:0.4757| loss_dfl:0.2067| 
+INFO:root:warmup|Iter(487/900)| lr:8.22e-02| loss_qfl:0.4530| loss_bbox:0.4875| loss_dfl:0.2110| 
+INFO:root:warmup|Iter(496/900)| lr:8.34e-02| loss_qfl:0.4451| loss_bbox:0.4800| loss_dfl:0.2114| 
+INFO:root:warmup|Iter(505/900)| lr:8.47e-02| loss_qfl:0.4359| loss_bbox:0.4739| loss_dfl:0.2078| 
+INFO:root:warmup|Iter(514/900)| lr:8.60e-02| loss_qfl:0.4257| loss_bbox:0.4783| loss_dfl:0.2081| 
+INFO:root:warmup|Iter(523/900)| lr:8.72e-02| loss_qfl:0.4428| loss_bbox:0.4720| loss_dfl:0.2065| 
+INFO:root:warmup|Iter(532/900)| lr:8.85e-02| loss_qfl:0.4333| loss_bbox:0.4699| loss_dfl:0.2081| 
+INFO:root:warmup|Iter(541/900)| lr:8.97e-02| loss_qfl:0.4211| loss_bbox:0.4785| loss_dfl:0.2072| 
+INFO:root:warmup|Iter(550/900)| lr:9.10e-02| loss_qfl:0.4264| loss_bbox:0.4732| loss_dfl:0.2069| 
+INFO:root:warmup|Iter(559/900)| lr:9.23e-02| loss_qfl:0.4172| loss_bbox:0.4770| loss_dfl:0.2068| 
+INFO:root:warmup|Iter(568/900)| lr:9.35e-02| loss_qfl:0.4094| loss_bbox:0.4674| loss_dfl:0.2043| 
+INFO:root:warmup|Iter(577/900)| lr:9.48e-02| loss_qfl:0.3986| loss_bbox:0.4651| loss_dfl:0.2059| 
+INFO:root:warmup|Iter(586/900)| lr:9.60e-02| loss_qfl:0.3912| loss_bbox:0.4707| loss_dfl:0.2063| 
+INFO:root:warmup|Iter(595/900)| lr:9.73e-02| loss_qfl:0.4104| loss_bbox:0.4616| loss_dfl:0.2058| 
+INFO:root:warmup|Iter(604/900)| lr:9.86e-02| loss_qfl:0.3971| loss_bbox:0.4662| loss_dfl:0.2038| 
+INFO:root:warmup|Iter(613/900)| lr:9.98e-02| loss_qfl:0.3965| loss_bbox:0.4639| loss_dfl:0.2034| 
+INFO:root:warmup|Iter(622/900)| lr:1.01e-01| loss_qfl:0.3806| loss_bbox:0.4643| loss_dfl:0.2039| 
+INFO:root:warmup|Iter(631/900)| lr:1.02e-01| loss_qfl:0.3920| loss_bbox:0.4527| loss_dfl:0.2020| 
+INFO:root:warmup|Iter(640/900)| lr:1.04e-01| loss_qfl:0.3852| loss_bbox:0.4557| loss_dfl:0.2030| 
+INFO:root:warmup|Iter(649/900)| lr:1.05e-01| loss_qfl:0.3871| loss_bbox:0.4609| loss_dfl:0.2043| 
+INFO:root:warmup|Iter(658/900)| lr:1.06e-01| loss_qfl:0.3883| loss_bbox:0.4607| loss_dfl:0.2039| 
+INFO:root:warmup|Iter(667/900)| lr:1.07e-01| loss_qfl:0.3828| loss_bbox:0.4666| loss_dfl:0.2046| 
+INFO:root:warmup|Iter(676/900)| lr:1.09e-01| loss_qfl:0.3779| loss_bbox:0.4541| loss_dfl:0.2013| 
+INFO:root:warmup|Iter(685/900)| lr:1.10e-01| loss_qfl:0.3752| loss_bbox:0.4543| loss_dfl:0.2013| 
+INFO:root:warmup|Iter(694/900)| lr:1.11e-01| loss_qfl:0.3559| loss_bbox:0.4624| loss_dfl:0.2019| 
+INFO:root:warmup|Iter(703/900)| lr:1.12e-01| loss_qfl:0.3719| loss_bbox:0.4476| loss_dfl:0.1989| 
+INFO:root:warmup|Iter(712/900)| lr:1.14e-01| loss_qfl:0.3516| loss_bbox:0.4474| loss_dfl:0.1984| 
+INFO:root:warmup|Iter(721/900)| lr:1.15e-01| loss_qfl:0.3452| loss_bbox:0.4389| loss_dfl:0.1980| 
+INFO:root:warmup|Iter(730/900)| lr:1.16e-01| loss_qfl:0.3578| loss_bbox:0.4324| loss_dfl:0.1961| 
+INFO:root:warmup|Iter(739/900)| lr:1.17e-01| loss_qfl:0.3471| loss_bbox:0.4404| loss_dfl:0.1976| 
+INFO:root:warmup|Iter(748/900)| lr:1.19e-01| loss_qfl:0.3631| loss_bbox:0.4361| loss_dfl:0.1975| 
+INFO:root:warmup|Iter(757/900)| lr:1.20e-01| loss_qfl:0.3427| loss_bbox:0.4350| loss_dfl:0.1982| 
+INFO:root:warmup|Iter(766/900)| lr:1.21e-01| loss_qfl:0.3357| loss_bbox:0.4445| loss_dfl:0.1978| 
+INFO:root:warmup|Iter(775/900)| lr:1.23e-01| loss_qfl:0.3481| loss_bbox:0.4287| loss_dfl:0.1970| 
+INFO:root:warmup|Iter(784/900)| lr:1.24e-01| loss_qfl:0.3443| loss_bbox:0.4241| loss_dfl:0.1951| 
+INFO:root:warmup|Iter(793/900)| lr:1.25e-01| loss_qfl:0.3282| loss_bbox:0.4360| loss_dfl:0.1985| 
+INFO:root:warmup|Iter(802/900)| lr:1.26e-01| loss_qfl:0.3230| loss_bbox:0.4283| loss_dfl:0.1948| 
+INFO:root:warmup|Iter(811/900)| lr:1.28e-01| loss_qfl:0.3197| loss_bbox:0.4379| loss_dfl:0.1970| 
+INFO:root:warmup|Iter(820/900)| lr:1.29e-01| loss_qfl:0.3192| loss_bbox:0.4387| loss_dfl:0.1966| 
+INFO:root:warmup|Iter(829/900)| lr:1.30e-01| loss_qfl:0.3317| loss_bbox:0.4336| loss_dfl:0.1977| 
+INFO:root:warmup|Iter(838/900)| lr:1.31e-01| loss_qfl:0.3273| loss_bbox:0.4321| loss_dfl:0.1958| 
+INFO:root:warmup|Iter(847/900)| lr:1.33e-01| loss_qfl:0.3106| loss_bbox:0.4281| loss_dfl:0.1940| 
+INFO:root:warmup|Iter(856/900)| lr:1.34e-01| loss_qfl:0.3201| loss_bbox:0.4271| loss_dfl:0.1935| 
+INFO:root:warmup|Iter(865/900)| lr:1.35e-01| loss_qfl:0.3219| loss_bbox:0.4259| loss_dfl:0.1941| 
+INFO:root:warmup|Iter(874/900)| lr:1.36e-01| loss_qfl:0.3285| loss_bbox:0.4178| loss_dfl:0.1931| 
+INFO:root:warmup|Iter(883/900)| lr:1.38e-01| loss_qfl:0.3143| loss_bbox:0.4210| loss_dfl:0.1943| 
+INFO:root:warmup|Iter(892/900)| lr:1.39e-01| loss_qfl:0.3046| loss_bbox:0.4170| loss_dfl:0.1916| 
+INFO:root:train|Epoch1/10|Iter1(0/9)| lr:1.40e-01| loss_qfl:0.2880| loss_bbox:0.4217| loss_dfl:0.1899| 
+INFO:root:train|Epoch2/10|Iter10(0/9)| lr:1.40e-01| loss_qfl:0.2968| loss_bbox:0.4401| loss_dfl:0.1980| 
+INFO:root:train|Epoch3/10|Iter19(0/9)| lr:1.40e-01| loss_qfl:0.2931| loss_bbox:0.4074| loss_dfl:0.1873| 
+INFO:root:train|Epoch4/10|Iter28(0/9)| lr:1.40e-01| loss_qfl:0.2968| loss_bbox:0.3927| loss_dfl:0.1867| 
+INFO:root:train|Epoch5/10|Iter37(0/9)| lr:1.40e-01| loss_qfl:0.2744| loss_bbox:0.3898| loss_dfl:0.1874| 
+INFO:root:train|Epoch6/10|Iter46(0/9)| lr:1.40e-01| loss_qfl:0.2643| loss_bbox:0.4033| loss_dfl:0.1885| 
+INFO:root:train|Epoch7/10|Iter55(0/9)| lr:1.40e-01| loss_qfl:0.2955| loss_bbox:0.3921| loss_dfl:0.1843| 
+INFO:root:train|Epoch8/10|Iter64(0/9)| lr:1.40e-01| loss_qfl:0.2860| loss_bbox:0.4103| loss_dfl:0.1932| 
+INFO:root:train|Epoch9/10|Iter73(0/9)| lr:1.40e-01| loss_qfl:0.2756| loss_bbox:0.3957| loss_dfl:0.1860| 
+INFO:root:train|Epoch10/10|Iter82(0/9)| lr:1.40e-01| loss_qfl:0.2798| loss_bbox:0.3972| loss_dfl:0.1878| 
+INFO:root:val|Epoch10/10|Iter91(0/1500)| lr:1.40e-01| loss_qfl:0.3026| loss_bbox:0.5790| loss_dfl:0.2108| 
+INFO:root:val|Epoch10/10|Iter91(10/1500)| lr:1.40e-01| loss_qfl:0.2247| loss_bbox:0.5041| loss_dfl:0.1933| 
+INFO:root:val|Epoch10/10|Iter91(20/1500)| lr:1.40e-01| loss_qfl:0.3381| loss_bbox:0.4688| loss_dfl:0.1523| 
+INFO:root:val|Epoch10/10|Iter91(30/1500)| lr:1.40e-01| loss_qfl:0.2669| loss_bbox:0.3526| loss_dfl:0.1790| 
+INFO:root:val|Epoch10/10|Iter91(40/1500)| lr:1.40e-01| loss_qfl:0.3742| loss_bbox:0.3823| loss_dfl:0.1939| 
+INFO:root:val|Epoch10/10|Iter91(50/1500)| lr:1.40e-01| loss_qfl:0.2832| loss_bbox:0.4024| loss_dfl:0.1680| 
+INFO:root:val|Epoch10/10|Iter91(60/1500)| lr:1.40e-01| loss_qfl:0.2153| loss_bbox:0.3192| loss_dfl:0.1559| 
+INFO:root:val|Epoch10/10|Iter91(70/1500)| lr:1.40e-01| loss_qfl:0.2962| loss_bbox:0.3139| loss_dfl:0.1392| 
+INFO:root:val|Epoch10/10|Iter91(80/1500)| lr:1.40e-01| loss_qfl:0.2415| loss_bbox:0.3233| loss_dfl:0.1694| 
+INFO:root:val|Epoch10/10|Iter91(90/1500)| lr:1.40e-01| loss_qfl:0.3587| loss_bbox:0.3545| loss_dfl:0.1829| 
+INFO:root:val|Epoch10/10|Iter91(100/1500)| lr:1.40e-01| loss_qfl:0.1998| loss_bbox:0.3547| loss_dfl:0.1717| 
+INFO:root:val|Epoch10/10|Iter91(110/1500)| lr:1.40e-01| loss_qfl:0.2607| loss_bbox:0.4992| loss_dfl:0.1756| 
+INFO:root:val|Epoch10/10|Iter91(120/1500)| lr:1.40e-01| loss_qfl:0.2217| loss_bbox:0.3945| loss_dfl:0.1936| 
+INFO:root:val|Epoch10/10|Iter91(130/1500)| lr:1.40e-01| loss_qfl:0.3146| loss_bbox:0.4804| loss_dfl:0.1645| 
+INFO:root:val|Epoch10/10|Iter91(140/1500)| lr:1.40e-01| loss_qfl:0.2816| loss_bbox:0.3193| loss_dfl:0.1694| 
+INFO:root:val|Epoch10/10|Iter91(150/1500)| lr:1.40e-01| loss_qfl:0.2953| loss_bbox:0.3395| loss_dfl:0.1491| 
+INFO:root:val|Epoch10/10|Iter91(160/1500)| lr:1.40e-01| loss_qfl:0.1911| loss_bbox:0.3816| loss_dfl:0.1602| 
+INFO:root:val|Epoch10/10|Iter91(170/1500)| lr:1.40e-01| loss_qfl:0.2799| loss_bbox:0.4260| loss_dfl:0.2001| 
+INFO:root:val|Epoch10/10|Iter91(180/1500)| lr:1.40e-01| loss_qfl:0.2457| loss_bbox:0.4277| loss_dfl:0.1868| 
+INFO:root:val|Epoch10/10|Iter91(190/1500)| lr:1.40e-01| loss_qfl:0.1769| loss_bbox:0.3173| loss_dfl:0.1705| 
+INFO:root:val|Epoch10/10|Iter91(200/1500)| lr:1.40e-01| loss_qfl:0.1085| loss_bbox:0.3694| loss_dfl:0.1378| 
+INFO:root:val|Epoch10/10|Iter91(210/1500)| lr:1.40e-01| loss_qfl:0.1797| loss_bbox:0.2779| loss_dfl:0.1471| 
+INFO:root:val|Epoch10/10|Iter91(220/1500)| lr:1.40e-01| loss_qfl:0.2317| loss_bbox:0.6037| loss_dfl:0.1884| 
+INFO:root:val|Epoch10/10|Iter91(230/1500)| lr:1.40e-01| loss_qfl:0.3253| loss_bbox:0.4400| loss_dfl:0.1701| 
+INFO:root:val|Epoch10/10|Iter91(240/1500)| lr:1.40e-01| loss_qfl:0.2893| loss_bbox:0.4539| loss_dfl:0.1670| 
+INFO:root:val|Epoch10/10|Iter91(250/1500)| lr:1.40e-01| loss_qfl:0.2468| loss_bbox:0.3640| loss_dfl:0.1715| 
+INFO:root:val|Epoch10/10|Iter91(260/1500)| lr:1.40e-01| loss_qfl:0.3929| loss_bbox:0.5149| loss_dfl:0.1904| 
+INFO:root:val|Epoch10/10|Iter91(270/1500)| lr:1.40e-01| loss_qfl:0.2658| loss_bbox:0.4068| loss_dfl:0.1878| 
+INFO:root:val|Epoch10/10|Iter91(280/1500)| lr:1.40e-01| loss_qfl:0.3146| loss_bbox:0.6069| loss_dfl:0.1905| 
+INFO:root:val|Epoch10/10|Iter91(290/1500)| lr:1.40e-01| loss_qfl:0.2221| loss_bbox:0.4764| loss_dfl:0.2393| 
+INFO:root:val|Epoch10/10|Iter91(300/1500)| lr:1.40e-01| loss_qfl:0.3894| loss_bbox:0.3348| loss_dfl:0.1834| 
+INFO:root:val|Epoch10/10|Iter91(310/1500)| lr:1.40e-01| loss_qfl:0.2908| loss_bbox:0.3968| loss_dfl:0.1480| 
+INFO:root:val|Epoch10/10|Iter91(320/1500)| lr:1.40e-01| loss_qfl:0.2916| loss_bbox:0.5294| loss_dfl:0.1884| 
+INFO:root:val|Epoch10/10|Iter91(330/1500)| lr:1.40e-01| loss_qfl:0.2406| loss_bbox:0.3130| loss_dfl:0.1437| 
+INFO:root:val|Epoch10/10|Iter91(340/1500)| lr:1.40e-01| loss_qfl:0.2580| loss_bbox:0.3603| loss_dfl:0.1603| 
+INFO:root:val|Epoch10/10|Iter91(350/1500)| lr:1.40e-01| loss_qfl:0.2698| loss_bbox:0.3595| loss_dfl:0.1872| 
+INFO:root:val|Epoch10/10|Iter91(360/1500)| lr:1.40e-01| loss_qfl:0.2330| loss_bbox:0.4377| loss_dfl:0.1983| 
+INFO:root:val|Epoch10/10|Iter91(370/1500)| lr:1.40e-01| loss_qfl:0.3419| loss_bbox:0.5939| loss_dfl:0.2009| 
+INFO:root:val|Epoch10/10|Iter91(380/1500)| lr:1.40e-01| loss_qfl:0.2536| loss_bbox:0.4998| loss_dfl:0.1863| 
+INFO:root:val|Epoch10/10|Iter91(390/1500)| lr:1.40e-01| loss_qfl:0.2272| loss_bbox:0.2733| loss_dfl:0.1363| 
+INFO:root:val|Epoch10/10|Iter91(400/1500)| lr:1.40e-01| loss_qfl:0.3049| loss_bbox:0.3738| loss_dfl:0.1638| 
+INFO:root:val|Epoch10/10|Iter91(410/1500)| lr:1.40e-01| loss_qfl:0.2639| loss_bbox:0.4687| loss_dfl:0.1787| 
+INFO:root:val|Epoch10/10|Iter91(420/1500)| lr:1.40e-01| loss_qfl:0.1963| loss_bbox:0.4516| loss_dfl:0.1835| 
+INFO:root:val|Epoch10/10|Iter91(430/1500)| lr:1.40e-01| loss_qfl:0.2236| loss_bbox:0.3114| loss_dfl:0.1779| 
+INFO:root:val|Epoch10/10|Iter91(440/1500)| lr:1.40e-01| loss_qfl:0.3869| loss_bbox:0.4670| loss_dfl:0.1838| 
+INFO:root:val|Epoch10/10|Iter91(450/1500)| lr:1.40e-01| loss_qfl:0.3526| loss_bbox:0.3493| loss_dfl:0.1758| 
+INFO:root:val|Epoch10/10|Iter91(460/1500)| lr:1.40e-01| loss_qfl:0.2598| loss_bbox:0.4082| loss_dfl:0.1657| 
+INFO:root:val|Epoch10/10|Iter91(470/1500)| lr:1.40e-01| loss_qfl:0.3437| loss_bbox:0.4105| loss_dfl:0.1950| 
+INFO:root:val|Epoch10/10|Iter91(480/1500)| lr:1.40e-01| loss_qfl:0.2835| loss_bbox:0.5101| loss_dfl:0.1919| 
+INFO:root:val|Epoch10/10|Iter91(490/1500)| lr:1.40e-01| loss_qfl:0.2947| loss_bbox:0.4827| loss_dfl:0.1781| 
+INFO:root:val|Epoch10/10|Iter91(500/1500)| lr:1.40e-01| loss_qfl:0.2960| loss_bbox:0.4874| loss_dfl:0.1492| 
+INFO:root:val|Epoch10/10|Iter91(510/1500)| lr:1.40e-01| loss_qfl:0.3193| loss_bbox:0.5009| loss_dfl:0.1951| 
+INFO:root:val|Epoch10/10|Iter91(520/1500)| lr:1.40e-01| loss_qfl:0.2382| loss_bbox:0.3623| loss_dfl:0.1630| 
+INFO:root:val|Epoch10/10|Iter91(530/1500)| lr:1.40e-01| loss_qfl:0.1530| loss_bbox:0.2572| loss_dfl:0.1271| 
+INFO:root:val|Epoch10/10|Iter91(540/1500)| lr:1.40e-01| loss_qfl:0.2833| loss_bbox:0.4629| loss_dfl:0.1989| 
+INFO:root:val|Epoch10/10|Iter91(550/1500)| lr:1.40e-01| loss_qfl:0.2346| loss_bbox:0.3967| loss_dfl:0.1606| 
+INFO:root:val|Epoch10/10|Iter91(560/1500)| lr:1.40e-01| loss_qfl:0.2863| loss_bbox:0.3099| loss_dfl:0.1711| 
+INFO:root:val|Epoch10/10|Iter91(570/1500)| lr:1.40e-01| loss_qfl:0.2360| loss_bbox:0.3228| loss_dfl:0.1340| 
+INFO:root:val|Epoch10/10|Iter91(580/1500)| lr:1.40e-01| loss_qfl:0.1750| loss_bbox:0.3628| loss_dfl:0.1643| 
+INFO:root:val|Epoch10/10|Iter91(590/1500)| lr:1.40e-01| loss_qfl:0.2045| loss_bbox:0.3097| loss_dfl:0.1531| 
+INFO:root:val|Epoch10/10|Iter91(600/1500)| lr:1.40e-01| loss_qfl:0.1941| loss_bbox:0.4258| loss_dfl:0.1880| 
+INFO:root:val|Epoch10/10|Iter91(610/1500)| lr:1.40e-01| loss_qfl:0.2016| loss_bbox:0.3476| loss_dfl:0.1752| 
+INFO:root:val|Epoch10/10|Iter91(620/1500)| lr:1.40e-01| loss_qfl:0.3365| loss_bbox:0.5171| loss_dfl:0.2062| 
+INFO:root:val|Epoch10/10|Iter91(630/1500)| lr:1.40e-01| loss_qfl:0.4342| loss_bbox:0.5738| loss_dfl:0.2141| 
+INFO:root:val|Epoch10/10|Iter91(640/1500)| lr:1.40e-01| loss_qfl:0.1956| loss_bbox:0.2989| loss_dfl:0.1441| 
+INFO:root:val|Epoch10/10|Iter91(650/1500)| lr:1.40e-01| loss_qfl:0.2286| loss_bbox:0.4416| loss_dfl:0.1632| 
+INFO:root:val|Epoch10/10|Iter91(660/1500)| lr:1.40e-01| loss_qfl:0.3338| loss_bbox:0.4057| loss_dfl:0.2106| 
+INFO:root:val|Epoch10/10|Iter91(670/1500)| lr:1.40e-01| loss_qfl:0.2522| loss_bbox:0.3801| loss_dfl:0.1875| 
+INFO:root:val|Epoch10/10|Iter91(680/1500)| lr:1.40e-01| loss_qfl:0.3726| loss_bbox:0.5330| loss_dfl:0.1844| 
+INFO:root:val|Epoch10/10|Iter91(690/1500)| lr:1.40e-01| loss_qfl:0.1942| loss_bbox:0.4281| loss_dfl:0.1602| 
+INFO:root:val|Epoch10/10|Iter91(700/1500)| lr:1.40e-01| loss_qfl:0.2456| loss_bbox:0.4189| loss_dfl:0.1482| 
+INFO:root:val|Epoch10/10|Iter91(710/1500)| lr:1.40e-01| loss_qfl:0.1867| loss_bbox:0.3451| loss_dfl:0.1613| 
+INFO:root:val|Epoch10/10|Iter91(720/1500)| lr:1.40e-01| loss_qfl:0.2846| loss_bbox:0.4486| loss_dfl:0.1604| 
+INFO:root:val|Epoch10/10|Iter91(730/1500)| lr:1.40e-01| loss_qfl:0.2233| loss_bbox:0.3865| loss_dfl:0.1787| 
+INFO:root:val|Epoch10/10|Iter91(740/1500)| lr:1.40e-01| loss_qfl:0.2065| loss_bbox:0.3242| loss_dfl:0.1450| 
+INFO:root:val|Epoch10/10|Iter91(750/1500)| lr:1.40e-01| loss_qfl:0.1797| loss_bbox:0.3023| loss_dfl:0.1558| 
+INFO:root:val|Epoch10/10|Iter91(760/1500)| lr:1.40e-01| loss_qfl:0.2284| loss_bbox:0.3599| loss_dfl:0.1936| 
+INFO:root:val|Epoch10/10|Iter91(770/1500)| lr:1.40e-01| loss_qfl:0.3708| loss_bbox:0.3343| loss_dfl:0.1643| 
+INFO:root:val|Epoch10/10|Iter91(780/1500)| lr:1.40e-01| loss_qfl:0.3195| loss_bbox:0.4694| loss_dfl:0.2240| 
+INFO:root:val|Epoch10/10|Iter91(790/1500)| lr:1.40e-01| loss_qfl:0.3638| loss_bbox:0.3809| loss_dfl:0.1719| 
+INFO:root:val|Epoch10/10|Iter91(800/1500)| lr:1.40e-01| loss_qfl:0.2148| loss_bbox:0.4260| loss_dfl:0.1493| 
+INFO:root:val|Epoch10/10|Iter91(810/1500)| lr:1.40e-01| loss_qfl:0.1958| loss_bbox:0.3479| loss_dfl:0.1509| 
+INFO:root:val|Epoch10/10|Iter91(820/1500)| lr:1.40e-01| loss_qfl:0.3197| loss_bbox:0.4112| loss_dfl:0.1805| 
+INFO:root:val|Epoch10/10|Iter91(830/1500)| lr:1.40e-01| loss_qfl:0.3017| loss_bbox:0.3351| loss_dfl:0.1522| 
+INFO:root:val|Epoch10/10|Iter91(840/1500)| lr:1.40e-01| loss_qfl:0.3902| loss_bbox:0.4512| loss_dfl:0.1787| 
+INFO:root:val|Epoch10/10|Iter91(850/1500)| lr:1.40e-01| loss_qfl:0.3501| loss_bbox:0.3804| loss_dfl:0.1879| 
+INFO:root:val|Epoch10/10|Iter91(860/1500)| lr:1.40e-01| loss_qfl:0.3009| loss_bbox:0.3691| loss_dfl:0.1773| 
+INFO:root:val|Epoch10/10|Iter91(870/1500)| lr:1.40e-01| loss_qfl:0.2605| loss_bbox:0.3555| loss_dfl:0.1691| 
+INFO:root:val|Epoch10/10|Iter91(880/1500)| lr:1.40e-01| loss_qfl:0.4113| loss_bbox:0.3555| loss_dfl:0.1768| 
+INFO:root:val|Epoch10/10|Iter91(890/1500)| lr:1.40e-01| loss_qfl:0.1756| loss_bbox:0.2806| loss_dfl:0.1378| 
+INFO:root:val|Epoch10/10|Iter91(900/1500)| lr:1.40e-01| loss_qfl:0.3615| loss_bbox:0.3695| loss_dfl:0.1624| 
+INFO:root:val|Epoch10/10|Iter91(910/1500)| lr:1.40e-01| loss_qfl:0.3344| loss_bbox:0.5224| loss_dfl:0.1860| 
+INFO:root:val|Epoch10/10|Iter91(920/1500)| lr:1.40e-01| loss_qfl:0.2082| loss_bbox:0.5543| loss_dfl:0.2391| 
+INFO:root:val|Epoch10/10|Iter91(930/1500)| lr:1.40e-01| loss_qfl:0.3390| loss_bbox:0.4363| loss_dfl:0.1734| 
+INFO:root:val|Epoch10/10|Iter91(940/1500)| lr:1.40e-01| loss_qfl:0.1937| loss_bbox:0.2720| loss_dfl:0.1310| 
+INFO:root:val|Epoch10/10|Iter91(950/1500)| lr:1.40e-01| loss_qfl:0.2425| loss_bbox:0.5270| loss_dfl:0.2102| 
+INFO:root:val|Epoch10/10|Iter91(960/1500)| lr:1.40e-01| loss_qfl:0.3504| loss_bbox:0.3705| loss_dfl:0.1429| 
+INFO:root:val|Epoch10/10|Iter91(970/1500)| lr:1.40e-01| loss_qfl:0.2385| loss_bbox:0.5576| loss_dfl:0.1804| 
+INFO:root:val|Epoch10/10|Iter91(980/1500)| lr:1.40e-01| loss_qfl:0.2551| loss_bbox:0.2789| loss_dfl:0.1702| 
+INFO:root:val|Epoch10/10|Iter91(990/1500)| lr:1.40e-01| loss_qfl:0.2734| loss_bbox:0.3071| loss_dfl:0.1476| 
+INFO:root:val|Epoch10/10|Iter91(1000/1500)| lr:1.40e-01| loss_qfl:0.2648| loss_bbox:0.3646| loss_dfl:0.1768| 
+INFO:root:val|Epoch10/10|Iter91(1010/1500)| lr:1.40e-01| loss_qfl:0.3537| loss_bbox:0.4003| loss_dfl:0.1822| 
+INFO:root:val|Epoch10/10|Iter91(1020/1500)| lr:1.40e-01| loss_qfl:0.3105| loss_bbox:0.2628| loss_dfl:0.1422| 
+INFO:root:val|Epoch10/10|Iter91(1030/1500)| lr:1.40e-01| loss_qfl:0.3347| loss_bbox:0.2909| loss_dfl:0.1588| 
+INFO:root:val|Epoch10/10|Iter91(1040/1500)| lr:1.40e-01| loss_qfl:0.2014| loss_bbox:0.3870| loss_dfl:0.1602| 
+INFO:root:val|Epoch10/10|Iter91(1050/1500)| lr:1.40e-01| loss_qfl:0.2157| loss_bbox:0.4082| loss_dfl:0.1649| 
+INFO:root:val|Epoch10/10|Iter91(1060/1500)| lr:1.40e-01| loss_qfl:0.2061| loss_bbox:0.4202| loss_dfl:0.1508| 
+INFO:root:val|Epoch10/10|Iter91(1070/1500)| lr:1.40e-01| loss_qfl:0.2556| loss_bbox:0.3793| loss_dfl:0.1857| 
+INFO:root:val|Epoch10/10|Iter91(1080/1500)| lr:1.40e-01| loss_qfl:0.3607| loss_bbox:0.3279| loss_dfl:0.1728| 
+INFO:root:val|Epoch10/10|Iter91(1090/1500)| lr:1.40e-01| loss_qfl:0.1797| loss_bbox:0.5351| loss_dfl:0.1849| 
+INFO:root:val|Epoch10/10|Iter91(1100/1500)| lr:1.40e-01| loss_qfl:0.1953| loss_bbox:0.2902| loss_dfl:0.1670| 
+INFO:root:val|Epoch10/10|Iter91(1110/1500)| lr:1.40e-01| loss_qfl:0.2859| loss_bbox:0.4207| loss_dfl:0.1898| 
+INFO:root:val|Epoch10/10|Iter91(1120/1500)| lr:1.40e-01| loss_qfl:0.2618| loss_bbox:0.2817| loss_dfl:0.1440| 
+INFO:root:val|Epoch10/10|Iter91(1130/1500)| lr:1.40e-01| loss_qfl:0.3378| loss_bbox:0.5821| loss_dfl:0.1806| 
+INFO:root:val|Epoch10/10|Iter91(1140/1500)| lr:1.40e-01| loss_qfl:0.3553| loss_bbox:0.5712| loss_dfl:0.1794| 
+INFO:root:val|Epoch10/10|Iter91(1150/1500)| lr:1.40e-01| loss_qfl:0.1568| loss_bbox:0.2021| loss_dfl:0.1276| 
+INFO:root:val|Epoch10/10|Iter91(1160/1500)| lr:1.40e-01| loss_qfl:0.2045| loss_bbox:0.3952| loss_dfl:0.1772| 
+INFO:root:val|Epoch10/10|Iter91(1170/1500)| lr:1.40e-01| loss_qfl:0.2130| loss_bbox:0.3916| loss_dfl:0.1659| 
+INFO:root:val|Epoch10/10|Iter91(1180/1500)| lr:1.40e-01| loss_qfl:0.1949| loss_bbox:0.4135| loss_dfl:0.1411| 
+INFO:root:val|Epoch10/10|Iter91(1190/1500)| lr:1.40e-01| loss_qfl:0.1338| loss_bbox:0.2320| loss_dfl:0.1060| 
+INFO:root:val|Epoch10/10|Iter91(1200/1500)| lr:1.40e-01| loss_qfl:0.2143| loss_bbox:0.4116| loss_dfl:0.1713| 
+INFO:root:val|Epoch10/10|Iter91(1210/1500)| lr:1.40e-01| loss_qfl:0.2852| loss_bbox:0.3611| loss_dfl:0.1811| 
+INFO:root:val|Epoch10/10|Iter91(1220/1500)| lr:1.40e-01| loss_qfl:0.2378| loss_bbox:0.4533| loss_dfl:0.1610| 
+INFO:root:val|Epoch10/10|Iter91(1230/1500)| lr:1.40e-01| loss_qfl:0.3292| loss_bbox:0.3599| loss_dfl:0.1632| 
+INFO:root:val|Epoch10/10|Iter91(1240/1500)| lr:1.40e-01| loss_qfl:0.2372| loss_bbox:0.3792| loss_dfl:0.1825| 
+INFO:root:val|Epoch10/10|Iter91(1250/1500)| lr:1.40e-01| loss_qfl:0.2957| loss_bbox:0.4397| loss_dfl:0.1691| 
+INFO:root:val|Epoch10/10|Iter91(1260/1500)| lr:1.40e-01| loss_qfl:0.2927| loss_bbox:0.4705| loss_dfl:0.1576| 
+INFO:root:val|Epoch10/10|Iter91(1270/1500)| lr:1.40e-01| loss_qfl:0.2308| loss_bbox:0.3504| loss_dfl:0.1647| 
+INFO:root:val|Epoch10/10|Iter91(1280/1500)| lr:1.40e-01| loss_qfl:0.2963| loss_bbox:0.3955| loss_dfl:0.1667| 
+INFO:root:val|Epoch10/10|Iter91(1290/1500)| lr:1.40e-01| loss_qfl:0.2425| loss_bbox:0.5524| loss_dfl:0.1586| 
+INFO:root:val|Epoch10/10|Iter91(1300/1500)| lr:1.40e-01| loss_qfl:0.3012| loss_bbox:0.2853| loss_dfl:0.1248| 
+INFO:root:val|Epoch10/10|Iter91(1310/1500)| lr:1.40e-01| loss_qfl:0.2793| loss_bbox:0.3861| loss_dfl:0.1460| 
+INFO:root:val|Epoch10/10|Iter91(1320/1500)| lr:1.40e-01| loss_qfl:0.2660| loss_bbox:0.4412| loss_dfl:0.1691| 
+INFO:root:val|Epoch10/10|Iter91(1330/1500)| lr:1.40e-01| loss_qfl:0.2024| loss_bbox:0.3193| loss_dfl:0.1511| 
+INFO:root:val|Epoch10/10|Iter91(1340/1500)| lr:1.40e-01| loss_qfl:0.2816| loss_bbox:0.4011| loss_dfl:0.1795| 
+INFO:root:val|Epoch10/10|Iter91(1350/1500)| lr:1.40e-01| loss_qfl:0.3743| loss_bbox:0.4085| loss_dfl:0.1630| 
+INFO:root:val|Epoch10/10|Iter91(1360/1500)| lr:1.40e-01| loss_qfl:0.2359| loss_bbox:0.5259| loss_dfl:0.1878| 
+INFO:root:val|Epoch10/10|Iter91(1370/1500)| lr:1.40e-01| loss_qfl:0.2646| loss_bbox:0.5467| loss_dfl:0.1875| 
+INFO:root:val|Epoch10/10|Iter91(1380/1500)| lr:1.40e-01| loss_qfl:0.2207| loss_bbox:0.3488| loss_dfl:0.1730| 
+INFO:root:val|Epoch10/10|Iter91(1390/1500)| lr:1.40e-01| loss_qfl:0.2705| loss_bbox:0.4108| loss_dfl:0.1446| 
+INFO:root:val|Epoch10/10|Iter91(1400/1500)| lr:1.40e-01| loss_qfl:0.2676| loss_bbox:0.3376| loss_dfl:0.1742| 
+INFO:root:val|Epoch10/10|Iter91(1410/1500)| lr:1.40e-01| loss_qfl:0.2442| loss_bbox:0.4876| loss_dfl:0.2025| 
+INFO:root:val|Epoch10/10|Iter91(1420/1500)| lr:1.40e-01| loss_qfl:0.2242| loss_bbox:0.6194| loss_dfl:0.2046| 
+INFO:root:val|Epoch10/10|Iter91(1430/1500)| lr:1.40e-01| loss_qfl:0.2049| loss_bbox:0.3628| loss_dfl:0.1576| 
+INFO:root:val|Epoch10/10|Iter91(1440/1500)| lr:1.40e-01| loss_qfl:0.2213| loss_bbox:0.4197| loss_dfl:0.1603| 
+INFO:root:val|Epoch10/10|Iter91(1450/1500)| lr:1.40e-01| loss_qfl:0.2235| loss_bbox:0.4612| loss_dfl:0.1875| 
+INFO:root:val|Epoch10/10|Iter91(1460/1500)| lr:1.40e-01| loss_qfl:0.2938| loss_bbox:0.4606| loss_dfl:0.1781| 
+INFO:root:val|Epoch10/10|Iter91(1470/1500)| lr:1.40e-01| loss_qfl:0.2242| loss_bbox:0.3498| loss_dfl:0.1743| 
+INFO:root:val|Epoch10/10|Iter91(1480/1500)| lr:1.40e-01| loss_qfl:0.3640| loss_bbox:0.5763| loss_dfl:0.1982| 
+INFO:root:val|Epoch10/10|Iter91(1490/1500)| lr:1.40e-01| loss_qfl:0.4635| loss_bbox:0.3530| loss_dfl:0.1573| 
